@@ -1,4 +1,4 @@
-# Set the working directory in your machine
+# Set the working directory in your machine with setwd() function
 
 # Include libraries for this project:
 library(downloader) # Used to download and open a zip file
