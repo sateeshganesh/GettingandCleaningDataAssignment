@@ -33,11 +33,11 @@ Here are the steps performed for this project:
 The project includes the following files:
 =========================================
 
-- 'README.md'			: Explains how all of the scripts work and how they are connected.
+1. 'README.md'			: Explains how all of the scripts work and how they are connected.
 
-- 'run_analysis.R'		: Has the R script to perform all the steps mentioned above for this project.  
+2. 'run_analysis.R'		: Has the R script to perform all the steps mentioned above for this project.  
 
-- 'CodeBook.md'			: Describes the variables, the data, and any transformations or work that is performed to clean up the data for this project.
+3. 'CodeBook.md'			: Describes the variables, the data, and any transformations or work that is performed to clean up the data for this project.
 
-- 'meanstd_tidydata.csv': A tidy data set with the average of each measurements on the mean and standard deviation for each activity and each subject.
+4. 'meanstd_tidydata.csv': A tidy data set with the average of each measurements on the mean and standard deviation for each activity and each subject.
 
