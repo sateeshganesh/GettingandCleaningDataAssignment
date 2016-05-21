@@ -78,5 +78,5 @@ avgmeanstd <- onlymeanstd[, lapply(.SD, mean),by = list(subject,activity)]
 avgmeanstd <- tbl_df(avgmeanstd)
 
 ## Write the tidy data set in to a file:
-write.csv(avgmeanstd, file = "./meanstd_tidydata.csv", row.names = FALSE)
+write.table(avgmeanstd, file = "./meanstd_tidydata.txt", row.names = FALSE)
 
