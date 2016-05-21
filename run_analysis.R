@@ -1,6 +1,4 @@
-# Set the working directory
-#setwd("C:/Users/saxga8/Documents/Personal/CourseraRProg")
-setwd("/Users/sateeshganesh/Documents/DataScientistCourse-Coursera/GettingandCleaningDataAssignment")
+# Set the working directory in your machine
 
 # Include libraries for this project:
 library(downloader) # Used to download and open a zip file
